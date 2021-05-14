@@ -13,7 +13,7 @@ Put your LR images in the 'LR/' folder and run the 'test.py' code.
 
 This repository contains only the bare minimum files required for training. Feel free to raise an issue if you feel I've missed a required file.
 
-#BibTex
+# BibTex
 If you use this code in your research, please cite the following paper
 
 @InProceedings{10.1007/978-3-030-66415-2_11,
